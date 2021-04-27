@@ -84,6 +84,14 @@ html{
     .cards-grid{
         grid-template-columns: 1fr;
     }
+    .card--sesans{
+        
+        border-radius: .6rem .6rem 0rem 0rem; 
+    }
+    .card--luxury{
+        background-color: hsl(179, 100%, 13%);
+        border-radius: 0rem 0rem .6rem .6rem; 
+    }
 }
 
 
